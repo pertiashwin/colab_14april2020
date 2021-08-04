@@ -1,0 +1,5 @@
+text,sent1,sent2
+good,pos,pos
+bad,neg,neg
+nice,pos,pos
+ugly,neg,neg
